@@ -11,7 +11,11 @@ The first model was defined by:
 
 The second model was defined by:
 - 200 neurons for four hidden layers and one neuron for output layer
-- sigmoid was used for all layers.
+- sigmoid was used for all layers
 
-The first model produced 73% accuracy.  In order to improve the accuracy more data needed to be added.  For the second model all data was added as well as more neurons and layers.  Changing the activation from relu to sigmoid produced an accuracy of 75% for the second model
+The first model produced 73% accuracy.  In order to improve the accuracy more data needed to be added.  For the second model all data was added as well as more neurons and layers.  Changing the activation from relu to sigmoid produced an accuracy of 75% for the second model.
+
+The results of the model showed that providing funding for applicants that can potentially have successful ventures would produce a 75% accuracy.  Increasing the number of data could help provide different results that could be more accurate.  The current data is not enough to increase the accuracy to 90%.  Its recommended that more data be used.
+
+
 
